@@ -2,6 +2,6 @@
 #include<conio.h>
 void main
 {
- int a=10;
+ int a=100;
  }
  
